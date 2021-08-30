@@ -1,0 +1,1584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statuses type="array">
+  <status>
+    <created_at>Mon Aug 06 02:15:00 +0000 2012</created_at>
+    <id>232298697600409601</id>
+    <text>&#50500;&#50500; &#44536;&#47084;&#12622;&#45348;&#50836; RT @kyunghyang &#54861;&#47749;&#48372; &#8220;&#50689;&#44397; &#48420;&#51648;? &#47971;&#46020; &#50500;&#45768;&#51094;&#50500;&#8221; #KHAN http://t.co/TdEv9BQi</text>
+    <source>&lt;a href=&quot;http://www.livere.com&quot; rel=&quot;nofollow&quot;&gt;Social Reaction LiveRe! lol&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>76874712</id>
+      <name>YongJae Park</name>
+      <screen_name>waaaaaaaaaaaaac</screen_name>
+      <location>ShinChon. Seoul.</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url_https>
+      <url>http://codingholic.tistory.com</url>
+      <description>a&#44032; 13&#44060;
+Java, Flex, iPhone dev. consult.
+
+I know it's a long shot, but I want to try</description>
+      <protected>false</protected>
+      <followers_count>913</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>855</friends_count>
+      <created_at>Thu Sep 24 06:36:58 +0000 2009</created_at>
+      <favourites_count>2</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>1154</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13</listed_count>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+    <entities>
+      <user_mentions>
+        <user_mention start="12" end="23">
+          <screen_name>kyunghyang</screen_name>
+          <name>&#44221;&#54693;&#49888;&#47928;</name>
+          <id>118720645</id>
+        </user_mention>
+      </user_mentions>
+      <urls>
+        <url start="51" end="71">
+          <url>http://t.co/TdEv9BQi</url>
+          <expanded_url>http://wkh.kr/NUGPEe</expanded_url>
+          <display_url>wkh.kr/NUGPEe</display_url>
+        </url>
+      </urls>
+      <hashtags>
+        <hashtag start="45" end="50">
+          <text>KHAN</text>
+        </hashtag>
+      </hashtags>
+    </entities>
+  </status>
+  <status>
+    <created_at>Tue Jul 10 02:47:51 +0000 2012</created_at>
+    <id>222522492168847360</id>
+    <text>&#50864;&#50773; &#44415; RT @O_cjmall &#49828;&#53440;&#51068;&#50724;&#49397; &#47088;&#52845; &#44592;&#45392; &#51060;&#48292;&#53944;  &#49828;&#53440;&#51068;&#50724;&#48149;&#49828; 1&#54840;&#51032; &#51452;&#51064;&#51008; &#48148;&#47196; &#45208;!  http://t.co/NQ99WW9N</text>
+    <source>&lt;a href=&quot;http://www.livere.com&quot; rel=&quot;nofollow&quot;&gt;Social Reaction LiveRe! lol&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>76874712</id>
+      <name>YongJae Park</name>
+      <screen_name>waaaaaaaaaaaaac</screen_name>
+      <location>ShinChon. Seoul.</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url_https>
+      <url>http://codingholic.tistory.com</url>
+      <description>a&#44032; 13&#44060;
+Java, Flex, iPhone dev. consult.
+
+I know it's a long shot, but I want to try</description>
+      <protected>false</protected>
+      <followers_count>913</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>855</friends_count>
+      <created_at>Thu Sep 24 06:36:58 +0000 2009</created_at>
+      <favourites_count>2</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>1154</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13</listed_count>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+    <entities>
+      <user_mentions>
+        <user_mention start="8" end="17">
+          <screen_name>O_CJmall</screen_name>
+          <name>CJmall &#44277;&#49885; &#53944;&#50948;&#53552;</name>
+          <id>78453907</id>
+        </user_mention>
+      </user_mentions>
+      <urls>
+        <url start="57" end="77">
+          <url>http://t.co/NQ99WW9N</url>
+          <expanded_url>http://bit.ly/OgTMJ0</expanded_url>
+          <display_url>bit.ly/OgTMJ0</display_url>
+        </url>
+      </urls>
+      <hashtags/>
+    </entities>
+  </status>
+  <status>
+    <created_at>Tue Jul 10 02:47:41 +0000 2012</created_at>
+    <id>222522451601530880</id>
+    <text>&#50864;&#50773; &#44415; RT @O_cjmall &#49828;&#53440;&#51068;&#50724;&#49397; &#47088;&#52845; &#44592;&#45392; &#51060;&#48292;&#53944;  &#49828;&#53440;&#51068;&#50724;&#48149;&#49828; 1&#54840;&#51032; &#51452;&#51064;&#51008; &#48148;&#47196; &#45208;!  http://t.co/NQ99WW9N http://t.co/sqLw96PX</text>
+    <source>&lt;a href=&quot;http://www.livere.com&quot; rel=&quot;nofollow&quot;&gt;Social Reaction LiveRe! lol&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>76874712</id>
+      <name>YongJae Park</name>
+      <screen_name>waaaaaaaaaaaaac</screen_name>
+      <location>ShinChon. Seoul.</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url_https>
+      <url>http://codingholic.tistory.com</url>
+      <description>a&#44032; 13&#44060;
+Java, Flex, iPhone dev. consult.
+
+I know it's a long shot, but I want to try</description>
+      <protected>false</protected>
+      <followers_count>913</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>855</friends_count>
+      <created_at>Thu Sep 24 06:36:58 +0000 2009</created_at>
+      <favourites_count>2</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>1154</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13</listed_count>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+    <entities>
+      <user_mentions>
+        <user_mention start="8" end="17">
+          <screen_name>O_CJmall</screen_name>
+          <name>CJmall &#44277;&#49885; &#53944;&#50948;&#53552;</name>
+          <id>78453907</id>
+        </user_mention>
+      </user_mentions>
+      <urls>
+        <url start="57" end="77">
+          <url>http://t.co/NQ99WW9N</url>
+          <expanded_url>http://bit.ly/OgTMJ0</expanded_url>
+          <display_url>bit.ly/OgTMJ0</display_url>
+        </url>
+      </urls>
+      <hashtags/>
+      <media>
+        <creative start="78" end="98">
+          <id>222522451614113792</id>
+          <media_url>http://pbs.twimg.com/media/AxaO_aMCIAAMNCY.jpg</media_url>
+          <media_url_https>https://pbs.twimg.com/media/AxaO_aMCIAAMNCY.jpg</media_url_https>
+          <url>http://t.co/sqLw96PX</url>
+          <display_url>pic.twitter.com/sqLw96PX</display_url>
+          <expanded_url>http://twitter.com/waaaaaaaaaaaaac/status/222522451601530880/photo/1</expanded_url>
+          <type>photo</type>
+          <sizes>
+            <small>
+              <w>88</w>
+              <h>88</h>
+              <resize>fit</resize>
+            </small>
+            <thumb>
+              <w>88</w>
+              <h>88</h>
+              <resize>crop</resize>
+            </thumb>
+            <medium>
+              <w>88</w>
+              <h>88</h>
+              <resize>fit</resize>
+            </medium>
+            <large>
+              <w>88</w>
+              <h>88</h>
+              <resize>fit</resize>
+            </large>
+          </sizes>
+        </creative>
+      </media>
+    </entities>
+  </status>
+  <status>
+    <created_at>Fri Jul 06 07:35:46 +0000 2012</created_at>
+    <id>221145398889283585</id>
+    <text>&#50864;&#50773; &#44415;? RT @Livere_Ply &#49548;&#49500;&#45843;&#44544;, &#46972;&#51060;&#48652;&#47532;(LiveRe)&#50640; &#50724;&#49888; &#44163;&#51012; &#54872;&#50689;&#54633;&#45768;&#45796;! #LiveRe http://t.co/pubfiq9N</text>
+    <source>&lt;a href=&quot;http://www.livere.com&quot; rel=&quot;nofollow&quot;&gt;Social Reaction LiveRe! lol&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>76874712</id>
+      <name>YongJae Park</name>
+      <screen_name>waaaaaaaaaaaaac</screen_name>
+      <location>ShinChon. Seoul.</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url_https>
+      <url>http://codingholic.tistory.com</url>
+      <description>a&#44032; 13&#44060;
+Java, Flex, iPhone dev. consult.
+
+I know it's a long shot, but I want to try</description>
+      <protected>false</protected>
+      <followers_count>913</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>855</friends_count>
+      <created_at>Thu Sep 24 06:36:58 +0000 2009</created_at>
+      <favourites_count>2</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>1154</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13</listed_count>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+    <entities>
+      <user_mentions>
+        <user_mention start="9" end="20">
+          <screen_name>LiveRe_Ply</screen_name>
+          <name>LiveRe</name>
+          <id>201202636</id>
+        </user_mention>
+      </user_mentions>
+      <urls>
+        <url start="62" end="82">
+          <url>http://t.co/pubfiq9N</url>
+          <expanded_url>http://bit.ly/HCBMiO</expanded_url>
+          <display_url>bit.ly/HCBMiO</display_url>
+        </url>
+      </urls>
+      <hashtags>
+        <hashtag start="54" end="61">
+          <text>LiveRe</text>
+        </hashtag>
+      </hashtags>
+    </entities>
+  </status>
+  <status>
+    <created_at>Mon May 14 17:36:22 +0000 2012</created_at>
+    <id>202089986416324609</id>
+    <text>&#54620;&#44397;&#53440;&#51060;&#50612; &#52828;&#54872;&#44221;&#50521;&#54532;&#46993; &#50640;&#53076; &#52636;&#49884;&#47484; &#51652;&#49900;&#51004;&#47196; &#52629;&#54616;&#54633;&#45768;&#45796; RT @hankooktire 1&#46321; &#54620;&#44397;&#53440;&#51060;&#50612; &#49888;&#49345;&#54408; &#47088;&#52845; `&#51200;&#50672;&#48708;, &#52828;&#54872;&#44221; &#53440;&#51060;&#50612;&#51032; &#54364;&#51456;, &#50521;&#54532;&#46993; &#50640;&#53076; !!!` #&#50521;&#54532;&#46993;&#50640;&#53076; http://t.co/JM0zwGTO</text>
+    <source>&lt;a href=&quot;http://www.livere.com&quot; rel=&quot;nofollow&quot;&gt;Social Reaction LiveRe! lol&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>76874712</id>
+      <name>YongJae Park</name>
+      <screen_name>waaaaaaaaaaaaac</screen_name>
+      <location>ShinChon. Seoul.</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url_https>
+      <url>http://codingholic.tistory.com</url>
+      <description>a&#44032; 13&#44060;
+Java, Flex, iPhone dev. consult.
+
+I know it's a long shot, but I want to try</description>
+      <protected>false</protected>
+      <followers_count>913</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>855</friends_count>
+      <created_at>Thu Sep 24 06:36:58 +0000 2009</created_at>
+      <favourites_count>2</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>1154</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13</listed_count>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+    <entities>
+      <user_mentions>
+        <user_mention start="34" end="46">
+          <screen_name>hankooktire</screen_name>
+          <name>Hanguktire</name>
+          <id>25969024</id>
+        </user_mention>
+      </user_mentions>
+      <urls>
+        <url start="101" end="121">
+          <url>http://t.co/JM0zwGTO</url>
+          <expanded_url>http://bit.ly/JSA6a4</expanded_url>
+          <display_url>bit.ly/JSA6a4</display_url>
+        </url>
+      </urls>
+      <hashtags>
+        <hashtag start="94" end="100">
+          <text>&#50521;&#54532;&#46993;&#50640;&#53076;</text>
+        </hashtag>
+      </hashtags>
+    </entities>
+  </status>
+  <status>
+    <created_at>Fri Apr 20 10:03:49 +0000 2012</created_at>
+    <id>193278793056653312</id>
+    <text>&#45804;&#47140;&#46972; &#45804;&#47140; RT @Livere_Ply &#49548;&#49500;&#45843;&#44544;, &#46972;&#51060;&#48652;&#47532;(LiveRe)&#50640; &#50724;&#49888; &#44163;&#51012; &#54872;&#50689;&#54633;&#45768;&#45796;! #LiveRe http://t.co/YFcemwlT</text>
+    <source>&lt;a href=&quot;http://www.livere.com&quot; rel=&quot;nofollow&quot;&gt;Social Reaction LiveRe! lol&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>76874712</id>
+      <name>YongJae Park</name>
+      <screen_name>waaaaaaaaaaaaac</screen_name>
+      <location>ShinChon. Seoul.</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url_https>
+      <url>http://codingholic.tistory.com</url>
+      <description>a&#44032; 13&#44060;
+Java, Flex, iPhone dev. consult.
+
+I know it's a long shot, but I want to try</description>
+      <protected>false</protected>
+      <followers_count>913</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>855</friends_count>
+      <created_at>Thu Sep 24 06:36:58 +0000 2009</created_at>
+      <favourites_count>2</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>1154</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13</listed_count>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+    <entities>
+      <user_mentions>
+        <user_mention start="10" end="21">
+          <screen_name>LiveRe_Ply</screen_name>
+          <name>LiveRe</name>
+          <id>201202636</id>
+        </user_mention>
+      </user_mentions>
+      <urls>
+        <url start="63" end="83">
+          <url>http://t.co/YFcemwlT</url>
+          <expanded_url>http://bit.ly/vkdiKn</expanded_url>
+          <display_url>bit.ly/vkdiKn</display_url>
+        </url>
+      </urls>
+      <hashtags>
+        <hashtag start="55" end="62">
+          <text>LiveRe</text>
+        </hashtag>
+      </hashtags>
+    </entities>
+  </status>
+  <status>
+    <created_at>Tue Apr 17 10:45:22 +0000 2012</created_at>
+    <id>192202086069444610</id>
+    <text>&#50528;&#46308;&#50500; &#46300;&#47548;&#53080;&#49436;&#53944; &#48372;&#47084; &#44032;&#51088;~! [&#44592;&#48376;&#54540;&#47019;&#54268;&#53580;&#49828;&#53944;] #basiclivere http://t.co/mkE0p8IU</text>
+    <source>&lt;a href=&quot;http://www.livere.com&quot; rel=&quot;nofollow&quot;&gt;Social Reaction LiveRe! lol&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>76874712</id>
+      <name>YongJae Park</name>
+      <screen_name>waaaaaaaaaaaaac</screen_name>
+      <location>ShinChon. Seoul.</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url_https>
+      <url>http://codingholic.tistory.com</url>
+      <description>a&#44032; 13&#44060;
+Java, Flex, iPhone dev. consult.
+
+I know it's a long shot, but I want to try</description>
+      <protected>false</protected>
+      <followers_count>913</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>855</friends_count>
+      <created_at>Thu Sep 24 06:36:58 +0000 2009</created_at>
+      <favourites_count>2</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>1154</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13</listed_count>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+    <entities>
+      <user_mentions/>
+      <urls>
+        <url start="42" end="62">
+          <url>http://t.co/mkE0p8IU</url>
+          <expanded_url>http://durl.me/22h9ac</expanded_url>
+          <display_url>durl.me/22h9ac</display_url>
+        </url>
+      </urls>
+      <hashtags>
+        <hashtag start="29" end="41">
+          <text>basiclivere</text>
+        </hashtag>
+      </hashtags>
+    </entities>
+  </status>
+  <status>
+    <created_at>Tue Apr 17 10:43:59 +0000 2012</created_at>
+    <id>192201736096714752</id>
+    <text>&#45348;&#51060;&#48260; &#51452;&#49885;&#51060; &#44288;&#49900; [&#44592;&#48376;&#54540;&#47019;&#54268;&#53580;&#49828;&#53944;] #basiclivere http://t.co/oV6am94x</text>
+    <source>&lt;a href=&quot;http://www.livere.com&quot; rel=&quot;nofollow&quot;&gt;Social Reaction LiveRe! lol&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>76874712</id>
+      <name>YongJae Park</name>
+      <screen_name>waaaaaaaaaaaaac</screen_name>
+      <location>ShinChon. Seoul.</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url_https>
+      <url>http://codingholic.tistory.com</url>
+      <description>a&#44032; 13&#44060;
+Java, Flex, iPhone dev. consult.
+
+I know it's a long shot, but I want to try</description>
+      <protected>false</protected>
+      <followers_count>913</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>855</friends_count>
+      <created_at>Thu Sep 24 06:36:58 +0000 2009</created_at>
+      <favourites_count>2</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>1154</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13</listed_count>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+    <entities>
+      <user_mentions/>
+      <urls>
+        <url start="35" end="55">
+          <url>http://t.co/oV6am94x</url>
+          <expanded_url>http://durl.me/22h95c</expanded_url>
+          <display_url>durl.me/22h95c</display_url>
+        </url>
+      </urls>
+      <hashtags>
+        <hashtag start="22" end="34">
+          <text>basiclivere</text>
+        </hashtag>
+      </hashtags>
+    </entities>
+  </status>
+  <status>
+    <created_at>Tue Apr 17 10:43:32 +0000 2012</created_at>
+    <id>192201620908539905</id>
+    <text>&#45348;&#51060;&#48260; &#47700;&#51064;&#51077;&#45768;&#45796; [&#44592;&#48376;&#54540;&#47019;&#54268;&#53580;&#49828;&#53944;] #basiclivere http://t.co/TdFXqaEr</text>
+    <source>&lt;a href=&quot;http://www.livere.com&quot; rel=&quot;nofollow&quot;&gt;Social Reaction LiveRe! lol&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>76874712</id>
+      <name>YongJae Park</name>
+      <screen_name>waaaaaaaaaaaaac</screen_name>
+      <location>ShinChon. Seoul.</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url_https>
+      <url>http://codingholic.tistory.com</url>
+      <description>a&#44032; 13&#44060;
+Java, Flex, iPhone dev. consult.
+
+I know it's a long shot, but I want to try</description>
+      <protected>false</protected>
+      <followers_count>913</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>855</friends_count>
+      <created_at>Thu Sep 24 06:36:58 +0000 2009</created_at>
+      <favourites_count>2</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>1154</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13</listed_count>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+    <entities>
+      <user_mentions/>
+      <urls>
+        <url start="34" end="54">
+          <url>http://t.co/TdFXqaEr</url>
+          <expanded_url>http://durl.me/a7g</expanded_url>
+          <display_url>durl.me/a7g</display_url>
+        </url>
+      </urls>
+      <hashtags>
+        <hashtag start="21" end="33">
+          <text>basiclivere</text>
+        </hashtag>
+      </hashtags>
+    </entities>
+  </status>
+  <status>
+    <created_at>Tue Apr 17 10:42:46 +0000 2012</created_at>
+    <id>192201431074340864</id>
+    <text>&#44396;&#44544;&#51077;&#45768;&#45817; [&#44592;&#48376;&#54540;&#47019;&#54268;&#53580;&#49828;&#53944;] #basiclivere http://t.co/jeZ3zPmN</text>
+    <source>&lt;a href=&quot;http://www.livere.com&quot; rel=&quot;nofollow&quot;&gt;Social Reaction LiveRe! lol&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>76874712</id>
+      <name>YongJae Park</name>
+      <screen_name>waaaaaaaaaaaaac</screen_name>
+      <location>ShinChon. Seoul.</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url_https>
+      <url>http://codingholic.tistory.com</url>
+      <description>a&#44032; 13&#44060;
+Java, Flex, iPhone dev. consult.
+
+I know it's a long shot, but I want to try</description>
+      <protected>false</protected>
+      <followers_count>913</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>855</friends_count>
+      <created_at>Thu Sep 24 06:36:58 +0000 2009</created_at>
+      <favourites_count>2</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>1154</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13</listed_count>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+    <entities>
+      <user_mentions/>
+      <urls>
+        <url start="30" end="50">
+          <url>http://t.co/jeZ3zPmN</url>
+          <expanded_url>http://durl.me/a9u</expanded_url>
+          <display_url>durl.me/a9u</display_url>
+        </url>
+      </urls>
+      <hashtags>
+        <hashtag start="17" end="29">
+          <text>basiclivere</text>
+        </hashtag>
+      </hashtags>
+    </entities>
+  </status>
+  <status>
+    <created_at>Tue Apr 17 10:37:25 +0000 2012</created_at>
+    <id>192200084174278656</id>
+    <text>&#50864;&#50773;~ &#44536;&#47111;&#44396;&#45208; [&#44592;&#48376;&#54540;&#47019;&#54268;&#53580;&#49828;&#53944;] #basiclivere http://t.co/XuabrmVd</text>
+    <source>&lt;a href=&quot;http://www.livere.com&quot; rel=&quot;nofollow&quot;&gt;Social Reaction LiveRe! lol&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>76874712</id>
+      <name>YongJae Park</name>
+      <screen_name>waaaaaaaaaaaaac</screen_name>
+      <location>ShinChon. Seoul.</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url_https>
+      <url>http://codingholic.tistory.com</url>
+      <description>a&#44032; 13&#44060;
+Java, Flex, iPhone dev. consult.
+
+I know it's a long shot, but I want to try</description>
+      <protected>false</protected>
+      <followers_count>913</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>855</friends_count>
+      <created_at>Thu Sep 24 06:36:58 +0000 2009</created_at>
+      <favourites_count>2</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>1154</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13</listed_count>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+    <entities>
+      <user_mentions/>
+      <urls>
+        <url start="33" end="53">
+          <url>http://t.co/XuabrmVd</url>
+          <expanded_url>http://wkh.kr/J5ICOW</expanded_url>
+          <display_url>wkh.kr/J5ICOW</display_url>
+        </url>
+      </urls>
+      <hashtags>
+        <hashtag start="20" end="32">
+          <text>basiclivere</text>
+        </hashtag>
+      </hashtags>
+    </entities>
+  </status>
+  <status>
+    <created_at>Mon Apr 16 14:22:05 +0000 2012</created_at>
+    <id>191894235094585345</id>
+    <text>&#50500;&#54616;&#54616;&#54616; &#49888;&#45212;&#45796;~ [&#49340;&#49457;&#54144;&#46300; &#49828;&#47560;&#53944;&#53364;&#47101; &#51116;&#53580;&#53356; &#53300;&#51592;] http://t.co/15BtsqJa</text>
+    <source>&lt;a href=&quot;http://www.livere.com&quot; rel=&quot;nofollow&quot;&gt;Social Reaction LiveRe! lol&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>76874712</id>
+      <name>YongJae Park</name>
+      <screen_name>waaaaaaaaaaaaac</screen_name>
+      <location>ShinChon. Seoul.</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url_https>
+      <url>http://codingholic.tistory.com</url>
+      <description>a&#44032; 13&#44060;
+Java, Flex, iPhone dev. consult.
+
+I know it's a long shot, but I want to try</description>
+      <protected>false</protected>
+      <followers_count>913</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>855</friends_count>
+      <created_at>Thu Sep 24 06:36:58 +0000 2009</created_at>
+      <favourites_count>2</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>1154</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13</listed_count>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+    <entities>
+      <user_mentions/>
+      <urls>
+        <url start="30" end="50">
+          <url>http://t.co/15BtsqJa</url>
+          <expanded_url>http://bit.ly/HQQwj6</expanded_url>
+          <display_url>bit.ly/HQQwj6</display_url>
+        </url>
+      </urls>
+      <hashtags/>
+    </entities>
+  </status>
+  <status>
+    <created_at>Wed Apr 11 11:45:18 +0000 2012</created_at>
+    <id>190042839244210177</id>
+    <text>@Kang_yongseok &#44648;&#50508;&#44057;&#51008; &#46301;&#54364;&#50984;.
+&#54924;&#52488;&#47532;&#47484; &#49373;&#44033;&#54616;&#44256; &#51080;&#50632;&#45716;&#45936; &#47805;&#46181;&#51060; &#50619;&#50612; &#47582;&#51004;&#49888; &#44201;&#51060;&#45348;&#50836;.
+&#44536;&#47000;&#46020; &#55192;&#45236;&#49464;&#50836;^^</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>189690589917356032</in_reply_to_status_id>
+    <in_reply_to_user_id>51960736</in_reply_to_user_id>
+    <in_reply_to_screen_name>Kang_yongseok</in_reply_to_screen_name>
+    <user>
+      <id>76874712</id>
+      <name>YongJae Park</name>
+      <screen_name>waaaaaaaaaaaaac</screen_name>
+      <location>ShinChon. Seoul.</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url_https>
+      <url>http://codingholic.tistory.com</url>
+      <description>a&#44032; 13&#44060;
+Java, Flex, iPhone dev. consult.
+
+I know it's a long shot, but I want to try</description>
+      <protected>false</protected>
+      <followers_count>913</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>855</friends_count>
+      <created_at>Thu Sep 24 06:36:58 +0000 2009</created_at>
+      <favourites_count>2</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>1154</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13</listed_count>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+    <entities>
+      <user_mentions>
+        <user_mention start="0" end="14">
+          <screen_name>Kang_yongseok</screen_name>
+          <name>&#44053;&#50857;&#49437;</name>
+          <id>51960736</id>
+        </user_mention>
+      </user_mentions>
+      <urls/>
+      <hashtags/>
+    </entities>
+  </status>
+  <status>
+    <created_at>Thu Mar 22 17:52:51 +0000 2012</created_at>
+    <id>182887579622981632</id>
+    <text>&#48164;&#51060; &#44618;&#50632;&#45348;&#50640;~ RT @Livere_Ply &#49548;&#49500;&#45843;&#44544;, &#46972;&#51060;&#48652;&#47532;(LiveRe)&#50640; &#50724;&#49888; &#44163;&#51012; &#54872;&#50689;&#54633;&#45768;&#45796;! #LiveRe http://t.co/YFcemwlT</text>
+    <source>&lt;a href=&quot;http://www.livere.com&quot; rel=&quot;nofollow&quot;&gt;Social Reaction LiveRe! lol&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>76874712</id>
+      <name>YongJae Park</name>
+      <screen_name>waaaaaaaaaaaaac</screen_name>
+      <location>ShinChon. Seoul.</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url_https>
+      <url>http://codingholic.tistory.com</url>
+      <description>a&#44032; 13&#44060;
+Java, Flex, iPhone dev. consult.
+
+I know it's a long shot, but I want to try</description>
+      <protected>false</protected>
+      <followers_count>913</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>855</friends_count>
+      <created_at>Thu Sep 24 06:36:58 +0000 2009</created_at>
+      <favourites_count>2</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>1154</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13</listed_count>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+    <entities>
+      <user_mentions>
+        <user_mention start="12" end="23">
+          <screen_name>LiveRe_Ply</screen_name>
+          <name>LiveRe</name>
+          <id>201202636</id>
+        </user_mention>
+      </user_mentions>
+      <urls>
+        <url start="65" end="85">
+          <url>http://t.co/YFcemwlT</url>
+          <expanded_url>http://bit.ly/vkdiKn</expanded_url>
+          <display_url>bit.ly/vkdiKn</display_url>
+        </url>
+      </urls>
+      <hashtags>
+        <hashtag start="57" end="64">
+          <text>LiveRe</text>
+        </hashtag>
+      </hashtags>
+    </entities>
+  </status>
+  <status>
+    <created_at>Thu Mar 22 12:27:04 +0000 2012</created_at>
+    <id>182805594951008257</id>
+    <text>@eungggggg &#51200;&#50752; &#50500;&#51060;&#46356; &#48516;&#50948;&#44592;&#44032; &#47588;&#50864; &#55137;&#49324;&#54616;&#49884;&#45348;&#50857; &#53188;&#53188;&#53188; RT @Livere_Ply &#49548;&#49500;&#45843;&#44544;, &#46972;&#51060;&#48652;&#47532;(LiveRe)&#50640; &#50724;&#49888; &#44163;&#51012; &#54872;&#50689;&#54633;&#45768;&#45796;! #LiveRe http://t.co/YFcemwlT</text>
+    <source>&lt;a href=&quot;http://www.livere.com&quot; rel=&quot;nofollow&quot;&gt;Social Reaction LiveRe! lol&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id>123169513</in_reply_to_user_id>
+    <in_reply_to_screen_name>eungggggg</in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>76874712</id>
+      <name>YongJae Park</name>
+      <screen_name>waaaaaaaaaaaaac</screen_name>
+      <location>ShinChon. Seoul.</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url_https>
+      <url>http://codingholic.tistory.com</url>
+      <description>a&#44032; 13&#44060;
+Java, Flex, iPhone dev. consult.
+
+I know it's a long shot, but I want to try</description>
+      <protected>false</protected>
+      <followers_count>913</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>855</friends_count>
+      <created_at>Thu Sep 24 06:36:58 +0000 2009</created_at>
+      <favourites_count>2</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>1154</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13</listed_count>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+    <entities>
+      <user_mentions>
+        <user_mention start="0" end="10">
+          <screen_name>eungggggg</screen_name>
+          <name>eung</name>
+          <id>123169513</id>
+        </user_mention>
+        <user_mention start="40" end="51">
+          <screen_name>LiveRe_Ply</screen_name>
+          <name>LiveRe</name>
+          <id>201202636</id>
+        </user_mention>
+      </user_mentions>
+      <urls>
+        <url start="93" end="113">
+          <url>http://t.co/YFcemwlT</url>
+          <expanded_url>http://bit.ly/vkdiKn</expanded_url>
+          <display_url>bit.ly/vkdiKn</display_url>
+        </url>
+      </urls>
+      <hashtags>
+        <hashtag start="85" end="92">
+          <text>LiveRe</text>
+        </hashtag>
+      </hashtags>
+    </entities>
+  </status>
+  <status>
+    <created_at>Fri Mar 16 07:15:48 +0000 2012</created_at>
+    <id>180552934034120705</id>
+    <text>333333333333333 RT @Livere_Ply &#49548;&#49500;&#45843;&#44544;, &#46972;&#51060;&#48652;&#47532;(LiveRe)&#50640; &#50724;&#49888; &#44163;&#51012; &#54872;&#50689;&#54633;&#45768;&#45796;! #LiveRe http://t.co/YFcemwlT</text>
+    <source>&lt;a href=&quot;http://www.livere.com&quot; rel=&quot;nofollow&quot;&gt;Social Reaction LiveRe! lol&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>76874712</id>
+      <name>YongJae Park</name>
+      <screen_name>waaaaaaaaaaaaac</screen_name>
+      <location>ShinChon. Seoul.</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url_https>
+      <url>http://codingholic.tistory.com</url>
+      <description>a&#44032; 13&#44060;
+Java, Flex, iPhone dev. consult.
+
+I know it's a long shot, but I want to try</description>
+      <protected>false</protected>
+      <followers_count>913</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>855</friends_count>
+      <created_at>Thu Sep 24 06:36:58 +0000 2009</created_at>
+      <favourites_count>2</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>1154</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13</listed_count>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+    <entities>
+      <user_mentions>
+        <user_mention start="19" end="30">
+          <screen_name>LiveRe_Ply</screen_name>
+          <name>LiveRe</name>
+          <id>201202636</id>
+        </user_mention>
+      </user_mentions>
+      <urls>
+        <url start="72" end="92">
+          <url>http://t.co/YFcemwlT</url>
+          <expanded_url>http://bit.ly/vkdiKn</expanded_url>
+          <display_url>bit.ly/vkdiKn</display_url>
+        </url>
+      </urls>
+      <hashtags>
+        <hashtag start="64" end="71">
+          <text>LiveRe</text>
+        </hashtag>
+      </hashtags>
+    </entities>
+  </status>
+  <status>
+    <created_at>Fri Mar 16 07:15:46 +0000 2012</created_at>
+    <id>180552924303331328</id>
+    <text>222222222222 RT @Livere_Ply &#49548;&#49500;&#45843;&#44544;, &#46972;&#51060;&#48652;&#47532;(LiveRe)&#50640; &#50724;&#49888; &#44163;&#51012; &#54872;&#50689;&#54633;&#45768;&#45796;! #LiveRe http://t.co/YFcemwlT</text>
+    <source>&lt;a href=&quot;http://www.livere.com&quot; rel=&quot;nofollow&quot;&gt;Social Reaction LiveRe! lol&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>76874712</id>
+      <name>YongJae Park</name>
+      <screen_name>waaaaaaaaaaaaac</screen_name>
+      <location>ShinChon. Seoul.</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url_https>
+      <url>http://codingholic.tistory.com</url>
+      <description>a&#44032; 13&#44060;
+Java, Flex, iPhone dev. consult.
+
+I know it's a long shot, but I want to try</description>
+      <protected>false</protected>
+      <followers_count>913</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>855</friends_count>
+      <created_at>Thu Sep 24 06:36:58 +0000 2009</created_at>
+      <favourites_count>2</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>1154</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13</listed_count>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+    <entities>
+      <user_mentions>
+        <user_mention start="16" end="27">
+          <screen_name>LiveRe_Ply</screen_name>
+          <name>LiveRe</name>
+          <id>201202636</id>
+        </user_mention>
+      </user_mentions>
+      <urls>
+        <url start="69" end="89">
+          <url>http://t.co/YFcemwlT</url>
+          <expanded_url>http://bit.ly/vkdiKn</expanded_url>
+          <display_url>bit.ly/vkdiKn</display_url>
+        </url>
+      </urls>
+      <hashtags>
+        <hashtag start="61" end="68">
+          <text>LiveRe</text>
+        </hashtag>
+      </hashtags>
+    </entities>
+  </status>
+  <status>
+    <created_at>Fri Mar 16 07:15:43 +0000 2012</created_at>
+    <id>180552914538999808</id>
+    <text>11111111111111 RT @Livere_Ply &#49548;&#49500;&#45843;&#44544;, &#46972;&#51060;&#48652;&#47532;(LiveRe)&#50640; &#50724;&#49888; &#44163;&#51012; &#54872;&#50689;&#54633;&#45768;&#45796;! #LiveRe http://t.co/YFcemwlT</text>
+    <source>&lt;a href=&quot;http://www.livere.com&quot; rel=&quot;nofollow&quot;&gt;Social Reaction LiveRe! lol&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>76874712</id>
+      <name>YongJae Park</name>
+      <screen_name>waaaaaaaaaaaaac</screen_name>
+      <location>ShinChon. Seoul.</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url_https>
+      <url>http://codingholic.tistory.com</url>
+      <description>a&#44032; 13&#44060;
+Java, Flex, iPhone dev. consult.
+
+I know it's a long shot, but I want to try</description>
+      <protected>false</protected>
+      <followers_count>913</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>855</friends_count>
+      <created_at>Thu Sep 24 06:36:58 +0000 2009</created_at>
+      <favourites_count>2</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>1154</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13</listed_count>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+    <entities>
+      <user_mentions>
+        <user_mention start="18" end="29">
+          <screen_name>LiveRe_Ply</screen_name>
+          <name>LiveRe</name>
+          <id>201202636</id>
+        </user_mention>
+      </user_mentions>
+      <urls>
+        <url start="71" end="91">
+          <url>http://t.co/YFcemwlT</url>
+          <expanded_url>http://bit.ly/vkdiKn</expanded_url>
+          <display_url>bit.ly/vkdiKn</display_url>
+        </url>
+      </urls>
+      <hashtags>
+        <hashtag start="63" end="70">
+          <text>LiveRe</text>
+        </hashtag>
+      </hashtags>
+    </entities>
+  </status>
+  <status>
+    <created_at>Sat Mar 03 06:17:54 +0000 2012</created_at>
+    <id>175827321314476033</id>
+    <text>&#54616;&#54616;&#54616; &#48260;&#51204; 6&#51060;&#45817;&#45817; RT @livere_twt &#49548;&#49500;&#45843;&#44544;, &#46972;&#51060;&#48652;&#47532;(LiveRe)&#50640; &#50724;&#49888; &#44163;&#51012; &#54872;&#50689;&#54633;&#45768;&#45796;! #LiveRe http://t.co/o6ptDB0G</text>
+    <source>&lt;a href=&quot;http://www.livere.com&quot; rel=&quot;nofollow&quot;&gt;Social Reaction, LiveRe&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>76874712</id>
+      <name>YongJae Park</name>
+      <screen_name>waaaaaaaaaaaaac</screen_name>
+      <location>ShinChon. Seoul.</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url_https>
+      <url>http://codingholic.tistory.com</url>
+      <description>a&#44032; 13&#44060;
+Java, Flex, iPhone dev. consult.
+
+I know it's a long shot, but I want to try</description>
+      <protected>false</protected>
+      <followers_count>913</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>855</friends_count>
+      <created_at>Thu Sep 24 06:36:58 +0000 2009</created_at>
+      <favourites_count>2</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>1154</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13</listed_count>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+    <entities>
+      <user_mentions>
+        <user_mention start="15" end="26">
+          <screen_name>LiveRe_twt</screen_name>
+          <name>&#46972;&#51060;&#48652;&#47532;</name>
+          <id>123611239</id>
+        </user_mention>
+      </user_mentions>
+      <urls>
+        <url start="68" end="88">
+          <url>http://t.co/o6ptDB0G</url>
+          <expanded_url>http://lr.cx/19403</expanded_url>
+          <display_url>lr.cx/19403</display_url>
+        </url>
+      </urls>
+      <hashtags>
+        <hashtag start="60" end="67">
+          <text>LiveRe</text>
+        </hashtag>
+      </hashtags>
+    </entities>
+  </status>
+  <status>
+    <created_at>Thu Feb 23 15:34:46 +0000 2012</created_at>
+    <id>172705970370265089</id>
+    <text>&#54980;&#54980;&#54999; RT @Livere_Ply &#49548;&#49500;&#45843;&#44544;, &#46972;&#51060;&#48652;&#47532;(LiveRe)&#50640; &#50724;&#49888; &#44163;&#51012; &#54872;&#50689;&#54633;&#45768;&#45796;! #LiveRe http://t.co/YFcemwlT</text>
+    <source>&lt;a href=&quot;http://www.livere.com&quot; rel=&quot;nofollow&quot;&gt;Social Reaction LiveRe! lol&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>76874712</id>
+      <name>YongJae Park</name>
+      <screen_name>waaaaaaaaaaaaac</screen_name>
+      <location>ShinChon. Seoul.</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1247025104/___________________normal.gif</profile_image_url_https>
+      <url>http://codingholic.tistory.com</url>
+      <description>a&#44032; 13&#44060;
+Java, Flex, iPhone dev. consult.
+
+I know it's a long shot, but I want to try</description>
+      <protected>false</protected>
+      <followers_count>913</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>855</friends_count>
+      <created_at>Thu Sep 24 06:36:58 +0000 2009</created_at>
+      <favourites_count>2</favourites_count>
+      <utc_offset></utc_offset>
+      <time_zone></time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>1154</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13</listed_count>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+    <entities>
+      <user_mentions>
+        <user_mention start="7" end="18">
+          <screen_name>LiveRe_Ply</screen_name>
+          <name>LiveRe</name>
+          <id>201202636</id>
+        </user_mention>
+      </user_mentions>
+      <urls>
+        <url start="60" end="80">
+          <url>http://t.co/YFcemwlT</url>
+          <expanded_url>http://bit.ly/vkdiKn</expanded_url>
+          <display_url>bit.ly/vkdiKn</display_url>
+        </url>
+      </urls>
+      <hashtags>
+        <hashtag start="52" end="59">
+          <text>LiveRe</text>
+        </hashtag>
+      </hashtags>
+    </entities>
+  </status>
+</statuses>
